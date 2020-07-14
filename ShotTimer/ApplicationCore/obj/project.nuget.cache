@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Cw7oq6ngjVSuxnB0ONg1ztYVBgZv3lw6Xhp9jh34+uSYGv1tQNUQrXcc/qVGiMLsTF2rYktv6RCSPv6n3vmMA==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\XamarinForms_ShotTimer\\ShotTimer\\ApplicationCore\\ApplicationCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alejandro Blasco\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

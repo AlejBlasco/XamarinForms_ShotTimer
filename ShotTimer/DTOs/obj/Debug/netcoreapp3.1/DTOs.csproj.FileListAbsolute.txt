@@ -1,0 +1,12 @@
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\bin\Debug\netcoreapp3.1\ShotTimer.DTOs.deps.json
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\bin\Debug\netcoreapp3.1\ShotTimer.DTOs.dll
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\bin\Debug\netcoreapp3.1\ShotTimer.DTOs.pdb
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\DTOs.csprojAssemblyReference.cache
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfoInputs.cache
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\DTOs.AssemblyInfo.cs
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\DTOs.csproj.CoreCompileInputs.cache
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\ShotTimer.DTOs.dll
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\ShotTimer.DTOs.pdb
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\bin\Debug\netcoreapp3.1\ShotTimer.Helpers.dll
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\bin\Debug\netcoreapp3.1\ShotTimer.Helpers.pdb
+C:\Projects\XamarinForms_ShotTimer\ShotTimer\DTOs\obj\Debug\netcoreapp3.1\DTOs.csproj.CopyComplete
